@@ -2,6 +2,8 @@
 <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Welcome&fontSize=90"/>
 </div>
 <div align=center>
+	<h1> 안녕하십니까!! 주윤입니다 </h1>
+<div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
 </div>
@@ -28,8 +30,9 @@
 	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jooyun-1&layout=compact)](https://github.com/jooyun-1/github-readme-stats)
+<div align=center>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jooyun-1&layout=compact">
+</div>
 
 <div align=center>
 	<p>🎨 Notion 🎨</p>
