@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요!! 주윤입니다 👋
 
 <!--
 **jooyun-1/jooyun-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jooyun-1&layout=compact)](https://github.com/jooyun-1/github-readme-stats)
- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jooyun-1&show_icons=true&theme=radical)
+</div>
