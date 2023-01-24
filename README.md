@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Welcome&fontSize=90"/>
 ### 안녕하세요!! 주윤입니다 👋
 
 <!--
@@ -14,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Welcome&fontSize=90"/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jooyun-1&layout=compact)](https://github.com/jooyun-1/github-readme-stats)
 
 
