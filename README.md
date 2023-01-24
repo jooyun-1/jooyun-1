@@ -28,14 +28,14 @@
 	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
-<div align=center>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jooyun-1&layout=compact)](https://github.com/jooyun-1/github-readme-stats)
-</div>
+
 <div align=center>
 	<p>🎨 Notion 🎨</p>
 </div>
 <div align=center>
-	<a href="[https://gentle-snowboard-1c6.notion.site/Yermi-5e8c65dba4df4ab09e83665cf2ee001d](https://www.notion.so/Joo-Yun-4e6b5b1e9f2a44e099f367246abc99c6)">
+	<a href="https://www.notion.so/Joo-Yun-4e6b5b1e9f2a44e099f367246abc99c6">
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	</a>
 	<br>
