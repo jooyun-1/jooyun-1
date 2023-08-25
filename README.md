@@ -41,18 +41,5 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
 </div>
 
-</br>
 
-## 📝 Most Used Languages
-<div align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jooyun-1&layout=compact">
-
-</div>
-
-</br>
-
-## 💡 Problem Solving Level
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=jootk1)](https://solved.ac/jootk1)
 
