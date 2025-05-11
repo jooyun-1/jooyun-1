@@ -7,7 +7,7 @@
 
 ✉ **E-mail** : joo6881@naver.com
 <br/>
-📖 **PortFolio** : https://www.notion.so/d1917ea53a6945ae989bf21dc5c9828c?pvs=4
+📖 **PortFolio** : (https://bit.ly/4jKvwOM)
 
 </br>
 
